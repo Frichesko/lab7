@@ -122,6 +122,17 @@ public class SinglyLinkedList : IEnumerable<double>
 
         return sum;
     }
+
+    public void RemoveEvenIndexElements()
+    {
+        for (int i = Count - 1; i >= 0; i--)
+        {
+            if (i % 2 == 0)
+            {
+                RemoveAt(i);
+            }
+        }
+    }
     public SinglyLinkedList GetLessThanAverage()
     {
         var result = new SinglyLinkedList();

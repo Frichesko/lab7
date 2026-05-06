@@ -54,13 +54,7 @@ var list = new SinglyLinkedList();
         }
         Console.WriteLine();
 
-        for (int i = list.Count - 1; i >= 0; i--)
-        {
-            if (i % 2 == 0)
-            {
-                list.RemoveAt(i);
-            }
-        }
+        list.RemoveEvenIndexElements();
 
         Console.Write("Після видалення: ");
         foreach (var item in list)
@@ -69,7 +63,7 @@ var list = new SinglyLinkedList();
         }
         Console.WriteLine();
 
-Console.WriteLine();
+        Console.WriteLine();
         Console.WriteLine("Демонстрація індексації");
         Console.WriteLine();
 
