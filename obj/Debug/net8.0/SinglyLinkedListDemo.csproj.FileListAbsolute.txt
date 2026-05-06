@@ -1,0 +1,14 @@
+C:\DZ\OOP\7 topic\SinglyLinkedListDemo\bin\Debug\net8.0\SinglyLinkedListDemo.exe
+C:\DZ\OOP\7 topic\SinglyLinkedListDemo\bin\Debug\net8.0\SinglyLinkedListDemo.deps.json
+C:\DZ\OOP\7 topic\SinglyLinkedListDemo\bin\Debug\net8.0\SinglyLinkedListDemo.runtimeconfig.json
+C:\DZ\OOP\7 topic\SinglyLinkedListDemo\bin\Debug\net8.0\SinglyLinkedListDemo.dll
+C:\DZ\OOP\7 topic\SinglyLinkedListDemo\bin\Debug\net8.0\SinglyLinkedListDemo.pdb
+C:\DZ\OOP\7 topic\SinglyLinkedListDemo\obj\Debug\net8.0\SinglyLinkedListDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\DZ\OOP\7 topic\SinglyLinkedListDemo\obj\Debug\net8.0\SinglyLinkedListDemo.AssemblyInfoInputs.cache
+C:\DZ\OOP\7 topic\SinglyLinkedListDemo\obj\Debug\net8.0\SinglyLinkedListDemo.AssemblyInfo.cs
+C:\DZ\OOP\7 topic\SinglyLinkedListDemo\obj\Debug\net8.0\SinglyLinkedListDemo.csproj.CoreCompileInputs.cache
+C:\DZ\OOP\7 topic\SinglyLinkedListDemo\obj\Debug\net8.0\SinglyLinkedListDemo.dll
+C:\DZ\OOP\7 topic\SinglyLinkedListDemo\obj\Debug\net8.0\refint\SinglyLinkedListDemo.dll
+C:\DZ\OOP\7 topic\SinglyLinkedListDemo\obj\Debug\net8.0\SinglyLinkedListDemo.pdb
+C:\DZ\OOP\7 topic\SinglyLinkedListDemo\obj\Debug\net8.0\SinglyLinkedListDemo.genruntimeconfig.cache
+C:\DZ\OOP\7 topic\SinglyLinkedListDemo\obj\Debug\net8.0\ref\SinglyLinkedListDemo.dll
