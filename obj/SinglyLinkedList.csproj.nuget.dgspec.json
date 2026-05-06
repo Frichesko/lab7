@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DZ\\OOP\\7 topic\\SinglyLinkedList\\SinglyLinkedList.csproj": {}
+    "C:\\DZ\\OOP\\7 topic\\lab7\\SinglyLinkedList.csproj": {}
   },
   "projects": {
-    "C:\\DZ\\OOP\\7 topic\\SinglyLinkedList\\SinglyLinkedList.csproj": {
+    "C:\\DZ\\OOP\\7 topic\\lab7\\SinglyLinkedList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DZ\\OOP\\7 topic\\SinglyLinkedList\\SinglyLinkedList.csproj",
+        "projectUniqueName": "C:\\DZ\\OOP\\7 topic\\lab7\\SinglyLinkedList.csproj",
         "projectName": "SinglyLinkedList",
-        "projectPath": "C:\\DZ\\OOP\\7 topic\\SinglyLinkedList\\SinglyLinkedList.csproj",
+        "projectPath": "C:\\DZ\\OOP\\7 topic\\lab7\\SinglyLinkedList.csproj",
         "packagesPath": "C:\\Users\\Vanya\\.nuget\\packages\\",
-        "outputPath": "C:\\DZ\\OOP\\7 topic\\SinglyLinkedList\\obj\\",
+        "outputPath": "C:\\DZ\\OOP\\7 topic\\lab7\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vanya\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\DZ\\OOP\\7 topic\\SinglyLinkedList\\SinglyLinkedList.csproj",
+      "projectUniqueName": "c:\\DZ\\OOP\\7 topic\\lab7\\SinglyLinkedList.csproj",
       "projectName": "SinglyLinkedList",
-      "projectPath": "c:\\DZ\\OOP\\7 topic\\SinglyLinkedList\\SinglyLinkedList.csproj",
+      "projectPath": "c:\\DZ\\OOP\\7 topic\\lab7\\SinglyLinkedList.csproj",
       "packagesPath": "C:\\Users\\Vanya\\.nuget\\packages\\",
-      "outputPath": "c:\\DZ\\OOP\\7 topic\\SinglyLinkedList\\obj\\",
+      "outputPath": "c:\\DZ\\OOP\\7 topic\\lab7\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Vanya\\AppData\\Roaming\\NuGet\\NuGet.Config"
