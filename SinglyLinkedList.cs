@@ -78,15 +78,13 @@ public class SinglyLinkedList : IEnumerable<double>
 
     public double GetAverage()
     {
-        if (_head == null)
+        if (Count == 0)
             return 0.0;
 
         double sum = 0;
-        var current = _head;
-        while (current != null)
+        foreach (var value in this)
         {
-            sum += current.Value;
-            current = current.Next;
+            sum += value;
         }
 
         return sum / Count;
@@ -94,16 +92,14 @@ public class SinglyLinkedList : IEnumerable<double>
 
     public double? GetFirstGreaterThanAverage()
     {
-        if (_head == null)
+        if (Count == 0)
             return null;
 
         double average = GetAverage();
-        var current = _head;
-        while (current != null)
+        foreach (var value in this)
         {
-            if (current.Value > average)
-                return current.Value;
-            current = current.Next;
+            if (value > average)
+                return value;
         }
 
         return null;
@@ -112,12 +108,10 @@ public class SinglyLinkedList : IEnumerable<double>
     public double GetSumGreaterThan(double targetValue)
     {
         double sum = 0;
-        var current = _head;
-        while (current != null)
+        foreach (var value in this)
         {
-            if (current.Value > targetValue)
-                sum += current.Value;
-            current = current.Next;
+            if (value > targetValue)
+                sum += value;
         }
 
         return sum;
@@ -136,16 +130,14 @@ public class SinglyLinkedList : IEnumerable<double>
     public SinglyLinkedList GetLessThanAverage()
     {
         var result = new SinglyLinkedList();
-        if (_head == null)
+        if (Count == 0)
             return result;
 
         double average = GetAverage();
-        var current = _head;
-        while (current != null)
+        foreach (var value in this)
         {
-            if (current.Value < average)
-                result.AddFirst(current.Value);
-            current = current.Next;
+            if (value < average)
+                result.AddFirst(value);
         }
 
         return result;
